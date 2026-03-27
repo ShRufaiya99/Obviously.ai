@@ -14,7 +14,7 @@ This project is a high-fidelity clone of the **Obviously.ai** landing page. It w
 - **Google Fonts:** For typography consistency.
 
 ### 🔗 Live Demo:
-Check out the live project here: [https://shrufaiya99.github.io](https://shrufaiya99.github.io)
+Check out the live project here: **https://shrufaiya99.github.io/Obviously.ai/**
 
 ---
 *Created with passion as a Frontend Development student at Creative IT Institute.*
